@@ -1,0 +1,381 @@
+FIXTURE,HOME TEAM,AWAY TEAM,LEAGUE
+Arsenal V Liverpool ,Arsenal,Liverpool,EPL
+Bournemouth V Man Utd ,Bournemouth,Man Utd,EPL
+Burnley V Swansea ,Burnley,Swansea,EPL
+Chelsea V West Ham ,Chelsea,West Ham,EPL
+Crystal Palace V West Brom ,Crystal Palace,West Brom,EPL
+Everton V Tottenham ,Everton,Tottenham,EPL
+Hull V Leicester ,Hull,Leicester,EPL
+Man City V Sunderland ,Man City,Sunderland,EPL
+Middlesbrough V Stoke ,Middlesbrough,Stoke,EPL
+Southampton V Watford ,Southampton,Watford,EPL
+Leicester V Arsenal ,Leicester,Arsenal,EPL
+Liverpool V Burnley ,Liverpool,Burnley,EPL
+Man Utd V Southampton ,Man Utd,Southampton,EPL
+Stoke V Man City ,Stoke,Man City,EPL
+Sunderland V Middlesbrough ,Sunderland,Middlesbrough,EPL
+Swansea V Hull ,Swansea,Hull,EPL
+Tottenham V Crystal Palace ,Tottenham,Crystal Palace,EPL
+Watford V Chelsea ,Watford,Chelsea,EPL
+West Brom V Everton ,West Brom,Everton,EPL
+West Ham V Bournemouth ,West Ham,Bournemouth,EPL
+Chelsea V Burnley ,Chelsea,Burnley,EPL
+Crystal Palace V Bournemouth ,Crystal Palace,Bournemouth,EPL
+Everton V Stoke ,Everton,Stoke,EPL
+Hull V Man Utd ,Hull,Man Utd,EPL
+Leicester V Swansea ,Leicester,Swansea,EPL
+Man City V West Ham ,Man City,West Ham,EPL
+Southampton V Sunderland ,Southampton,Sunderland,EPL
+Tottenham V Liverpool ,Tottenham,Liverpool,EPL
+Watford V Arsenal ,Watford,Arsenal,EPL
+West Brom V Middlesbrough ,West Brom,Middlesbrough,EPL
+Arsenal V Southampton ,Arsenal,Southampton,EPL
+Bournemouth V West Brom ,Bournemouth,West Brom,EPL
+Burnley V Hull ,Burnley,Hull,EPL
+Liverpool V Leicester ,Liverpool,Leicester,EPL
+Man Utd V Man City ,Man Utd,Man City,EPL
+Middlesbrough V Crystal Palace ,Middlesbrough,Crystal Palace,EPL
+Stoke V Tottenham ,Stoke,Tottenham,EPL
+Sunderland V Everton ,Sunderland,Everton,EPL
+Swansea V Chelsea ,Swansea,Chelsea,EPL
+West Ham V Watford ,West Ham,Watford,EPL
+Chelsea V Liverpool ,Chelsea,Liverpool,EPL
+Crystal Palace V Stoke ,Crystal Palace,Stoke,EPL
+Everton V Middlesbrough ,Everton,Middlesbrough,EPL
+Hull V Arsenal ,Hull,Arsenal,EPL
+Leicester V Burnley ,Leicester,Burnley,EPL
+Man City V Bournemouth ,Man City,Bournemouth,EPL
+Southampton V Swansea ,Southampton,Swansea,EPL
+Tottenham V Sunderland ,Tottenham,Sunderland,EPL
+Watford V Man Utd ,Watford,Man Utd,EPL
+West Brom V West Ham ,West Brom,West Ham,EPL
+Arsenal V Chelsea ,Arsenal,Chelsea,EPL
+Bournemouth V Everton ,Bournemouth,Everton,EPL
+Burnley V Watford ,Burnley,Watford,EPL
+Liverpool V Hull ,Liverpool,Hull,EPL
+Man Utd V Leicester ,Man Utd,Leicester,EPL
+Middlesbrough V Tottenham ,Middlesbrough,Tottenham,EPL
+Stoke V West Brom ,Stoke,West Brom,EPL
+Sunderland V Crystal Palace ,Sunderland,Crystal Palace,EPL
+Swansea V Man City ,Swansea,Man City,EPL
+West Ham V Southampton ,West Ham,Southampton,EPL
+Burnley V Arsenal ,Burnley,Arsenal,EPL
+Everton V Crystal Palace ,Everton,Crystal Palace,EPL
+Hull V Chelsea ,Hull,Chelsea,EPL
+Leicester V Southampton ,Leicester,Southampton,EPL
+Man Utd V Stoke ,Man Utd,Stoke,EPL
+Sunderland V West Brom ,Sunderland,West Brom,EPL
+Swansea V Liverpool ,Swansea,Liverpool,EPL
+Tottenham V Man City ,Tottenham,Man City,EPL
+Watford V Bournemouth ,Watford,Bournemouth,EPL
+West Ham V Middlesbrough ,West Ham,Middlesbrough,EPL
+Arsenal V Swansea ,Arsenal,Swansea,EPL
+Bournemouth V Hull ,Bournemouth,Hull,EPL
+Chelsea V Leicester ,Chelsea,Leicester,EPL
+Crystal Palace V West Ham ,Crystal Palace,West Ham,EPL
+Liverpool V Man Utd ,Liverpool,Man Utd,EPL
+Man City V Everton ,Man City,Everton,EPL
+Middlesbrough V Watford ,Middlesbrough,Watford,EPL
+Southampton V Burnley ,Southampton,Burnley,EPL
+Stoke V Sunderland ,Stoke,Sunderland,EPL
+West Brom V Tottenham ,West Brom,Tottenham,EPL
+Arsenal V Middlesbrough ,Arsenal,Middlesbrough,EPL
+Bournemouth V Tottenham ,Bournemouth,Tottenham,EPL
+Burnley V Everton ,Burnley,Everton,EPL
+Chelsea V Man Utd ,Chelsea,Man Utd,EPL
+Hull V Stoke ,Hull,Stoke,EPL
+Leicester V Crystal Palace ,Leicester,Crystal Palace,EPL
+Liverpool V West Brom ,Liverpool,West Brom,EPL
+Man City V Southampton ,Man City,Southampton,EPL
+Swansea V Watford ,Swansea,Watford,EPL
+West Ham V Sunderland ,West Ham,Sunderland,EPL
+Crystal Palace V Liverpool ,Crystal Palace,Liverpool,EPL
+Everton V West Ham ,Everton,West Ham,EPL
+Man Utd V Burnley ,Man Utd,Burnley,EPL
+Middlesbrough V Bournemouth ,Middlesbrough,Bournemouth,EPL
+Southampton V Chelsea ,Southampton,Chelsea,EPL
+Stoke V Swansea ,Stoke,Swansea,EPL
+Sunderland V Arsenal ,Sunderland,Arsenal,EPL
+Tottenham V Leicester ,Tottenham,Leicester,EPL
+Watford V Hull ,Watford,Hull,EPL
+West Brom V Man City ,West Brom,Man City,EPL
+Arsenal V Tottenham ,Arsenal,Tottenham,EPL
+Bournemouth V Sunderland ,Bournemouth,Sunderland,EPL
+Burnley V Crystal Palace ,Burnley,Crystal Palace,EPL
+Chelsea V Everton ,Chelsea,Everton,EPL
+Hull V Southampton ,Hull,Southampton,EPL
+Leicester V West Brom ,Leicester,West Brom,EPL
+Liverpool V Watford ,Liverpool,Watford,EPL
+Man City V Middlesbrough ,Man City,Middlesbrough,EPL
+Swansea V Man Utd ,Swansea,Man Utd,EPL
+West Ham V Stoke ,West Ham,Stoke,EPL
+Crystal Palace V Man City ,Crystal Palace,Man City,EPL
+Everton V Swansea ,Everton,Swansea,EPL
+Man Utd V Arsenal ,Man Utd,Arsenal,EPL
+Middlesbrough V Chelsea ,Middlesbrough,Chelsea,EPL
+Southampton V Liverpool ,Southampton,Liverpool,EPL
+Stoke V Bournemouth ,Stoke,Bournemouth,EPL
+Sunderland V Hull ,Sunderland,Hull,EPL
+Tottenham V West Ham ,Tottenham,West Ham,EPL
+Watford V Leicester ,Watford,Leicester,EPL
+West Brom V Burnley ,West Brom,Burnley,EPL
+Arsenal V Bournemouth ,Arsenal,Bournemouth,EPL
+Burnley V Man City ,Burnley,Man City,EPL
+Chelsea V Tottenham ,Chelsea,Tottenham,EPL
+Hull V West Brom ,Hull,West Brom,EPL
+Leicester V Middlesbrough ,Leicester,Middlesbrough,EPL
+Liverpool V Sunderland ,Liverpool,Sunderland,EPL
+Man Utd V West Ham ,Man Utd,West Ham,EPL
+Southampton V Everton ,Southampton,Everton,EPL
+Swansea V Crystal Palace ,Swansea,Crystal Palace,EPL
+Watford V Stoke ,Watford,Stoke,EPL
+Bournemouth V Liverpool ,Bournemouth,Liverpool,EPL
+Crystal Palace V Southampton ,Crystal Palace,Southampton,EPL
+Everton V Man Utd ,Everton,Man Utd,EPL
+Man City V Chelsea ,Man City,Chelsea,EPL
+Middlesbrough V Hull ,Middlesbrough,Hull,EPL
+Stoke V Burnley ,Stoke,Burnley,EPL
+Sunderland V Leicester ,Sunderland,Leicester,EPL
+Tottenham V Swansea ,Tottenham,Swansea,EPL
+West Brom V Watford ,West Brom,Watford,EPL
+West Ham V Arsenal ,West Ham,Arsenal,EPL
+Arsenal V Stoke ,Arsenal,Stoke,EPL
+Burnley V Bournemouth ,Burnley,Bournemouth,EPL
+Chelsea V West Brom ,Chelsea,West Brom,EPL
+Hull V Crystal Palace ,Hull,Crystal Palace,EPL
+Leicester V Man City ,Leicester,Man City,EPL
+Liverpool V West Ham ,Liverpool,West Ham,EPL
+Man Utd V Tottenham ,Man Utd,Tottenham,EPL
+Southampton V Middlesbrough ,Southampton,Middlesbrough,EPL
+Swansea V Sunderland ,Swansea,Sunderland,EPL
+Watford V Everton ,Watford,Everton,EPL
+Bournemouth V Leicester ,Bournemouth,Leicester,EPL
+Middlesbrough V Liverpool ,Middlesbrough,Liverpool,EPL
+Sunderland V Chelsea ,Sunderland,Chelsea,EPL
+West Ham V Burnley ,West Ham,Burnley,EPL
+Crystal Palace V Man Utd ,Crystal Palace,Man Utd,EPL
+West Brom V Swansea ,West Brom,Swansea,EPL
+Everton V Arsenal ,Everton,Arsenal,EPL
+Man City V Watford ,Man City,Watford,EPL
+Stoke V Southampton ,Stoke,Southampton,EPL
+Tottenham V Hull ,Tottenham,Hull,EPL
+Bournemouth V Southampton ,Bournemouth,Southampton,EPL
+Crystal Palace V Chelsea ,Crystal Palace,Chelsea,EPL
+Everton V Liverpool ,Everton,Liverpool,EPL
+Man City V Arsenal ,Man City,Arsenal,EPL
+Middlesbrough V Swansea ,Middlesbrough,Swansea,EPL
+Stoke V Leicester ,Stoke,Leicester,EPL
+Sunderland V Watford ,Sunderland,Watford,EPL
+Tottenham V Burnley ,Tottenham,Burnley,EPL
+West Brom V Man Utd ,West Brom,Man Utd,EPL
+West Ham V Hull ,West Ham,Hull,EPL
+Arsenal V West Brom ,Arsenal,West Brom,EPL
+Burnley V Middlesbrough ,Burnley,Middlesbrough,EPL
+Chelsea V Bournemouth ,Chelsea,Bournemouth,EPL
+Hull V Man City ,Hull,Man City,EPL
+Leicester V Everton ,Leicester,Everton,EPL
+Liverpool V Stoke ,Liverpool,Stoke,EPL
+Man Utd V Sunderland ,Man Utd,Sunderland,EPL
+Southampton V Tottenham ,Southampton,Tottenham,EPL
+Swansea V West Ham ,Swansea,West Ham,EPL
+Watford V Crystal Palace ,Watford,Crystal Palace,EPL
+Arsenal V Crystal Palace ,Arsenal,Crystal Palace,EPL
+Burnley V Sunderland ,Burnley,Sunderland,EPL
+Chelsea V Stoke ,Chelsea,Stoke,EPL
+Hull V Everton ,Hull,Everton,EPL
+Leicester V West Ham ,Leicester,West Ham,EPL
+Liverpool V Man City ,Liverpool,Man City,EPL
+Man Utd V Middlesbrough ,Man Utd,Middlesbrough,EPL
+Southampton V West Brom ,Southampton,West Brom,EPL
+Swansea V Bournemouth ,Swansea,Bournemouth,EPL
+Watford V Tottenham ,Watford,Tottenham,EPL
+Bournemouth V Arsenal ,Bournemouth,Arsenal,EPL
+Crystal Palace V Swansea ,Crystal Palace,Swansea,EPL
+Everton V Southampton ,Everton,Southampton,EPL
+Man City V Burnley ,Man City,Burnley,EPL
+Middlesbrough V Leicester ,Middlesbrough,Leicester,EPL
+Stoke V Watford ,Stoke,Watford,EPL
+Sunderland V Liverpool ,Sunderland,Liverpool,EPL
+Tottenham V Chelsea ,Tottenham,Chelsea,EPL
+West Brom V Hull ,West Brom,Hull,EPL
+West Ham V Man Utd ,West Ham,Man Utd,EPL
+Burnley V Southampton ,Burnley,Southampton,EPL
+Everton V Man City ,Everton,Man City,EPL
+Hull V Bournemouth ,Hull,Bournemouth,EPL
+Leicester V Chelsea ,Leicester,Chelsea,EPL
+Man Utd V Liverpool ,Man Utd,Liverpool,EPL
+Sunderland V Stoke ,Sunderland,Stoke,EPL
+Swansea V Arsenal ,Swansea,Arsenal,EPL
+Tottenham V West Brom ,Tottenham,West Brom,EPL
+Watford V Middlesbrough ,Watford,Middlesbrough,EPL
+West Ham V Crystal Palace ,West Ham,Crystal Palace,EPL
+Arsenal V Burnley ,Arsenal,Burnley,EPL
+Bournemouth V Watford ,Bournemouth,Watford,EPL
+Chelsea V Hull ,Chelsea,Hull,EPL
+Crystal Palace V Everton ,Crystal Palace,Everton,EPL
+Liverpool V Swansea ,Liverpool,Swansea,EPL
+Man City V Tottenham ,Man City,Tottenham,EPL
+Middlesbrough V West Ham ,Middlesbrough,West Ham,EPL
+Southampton V Leicester ,Southampton,Leicester,EPL
+Stoke V Man Utd ,Stoke,Man Utd,EPL
+West Brom V Sunderland ,West Brom,Sunderland,EPL
+Arsenal V Watford ,Arsenal,Watford,EPL
+Bournemouth V Crystal Palace ,Bournemouth,Crystal Palace,EPL
+Burnley V Leicester ,Burnley,Leicester,EPL
+Middlesbrough V West Brom ,Middlesbrough,West Brom,EPL
+Sunderland V Tottenham ,Sunderland,Tottenham,EPL
+Swansea V Southampton ,Swansea,Southampton,EPL
+West Ham V Man City ,West Ham,Man City,EPL
+Man Utd V Hull ,Man Utd,Hull,EPL
+Liverpool V Chelsea ,Liverpool,Chelsea,EPL
+Stoke V Everton ,Stoke,Everton,EPL
+Chelsea V Arsenal ,Chelsea,Arsenal,EPL
+Crystal Palace V Sunderland ,Crystal Palace,Sunderland,EPL
+Everton V Bournemouth ,Everton,Bournemouth,EPL
+Hull V Liverpool ,Hull,Liverpool,EPL
+Leicester V Man Utd ,Leicester,Man Utd,EPL
+Man City V Swansea ,Man City,Swansea,EPL
+Southampton V West Ham ,Southampton,West Ham,EPL
+Tottenham V Middlesbrough ,Tottenham,Middlesbrough,EPL
+Watford V Burnley ,Watford,Burnley,EPL
+West Brom V Stoke ,West Brom,Stoke,EPL
+Arsenal V Hull ,Arsenal,Hull,EPL
+Bournemouth V Man City ,Bournemouth,Man City,EPL
+Burnley V Chelsea ,Burnley,Chelsea,EPL
+Liverpool V Tottenham ,Liverpool,Tottenham,EPL
+Man Utd V Watford ,Man Utd,Watford,EPL
+Middlesbrough V Everton ,Middlesbrough,Everton,EPL
+Stoke V Crystal Palace ,Stoke,Crystal Palace,EPL
+Sunderland V Southampton ,Sunderland,Southampton,EPL
+Swansea V Leicester ,Swansea,Leicester,EPL
+West Ham V West Brom ,West Ham,West Brom,EPL
+Chelsea V Swansea ,Chelsea,Swansea,EPL
+Crystal Palace V Middlesbrough ,Crystal Palace,Middlesbrough,EPL
+Everton V Sunderland ,Everton,Sunderland,EPL
+Hull V Burnley ,Hull,Burnley,EPL
+Leicester V Liverpool ,Leicester,Liverpool,EPL
+Man City V Man Utd ,Man City,Man Utd,EPL
+Southampton V Arsenal ,Southampton,Arsenal,EPL
+Tottenham V Stoke ,Tottenham,Stoke,EPL
+Watford V West Ham ,Watford,West Ham,EPL
+West Brom V Bournemouth ,West Brom,Bournemouth,EPL
+Leicester V Hull ,Leicester,Hull,EPL
+Liverpool V Arsenal ,Liverpool,Arsenal,EPL
+Man Utd V Bournemouth ,Man Utd,Bournemouth,EPL
+Stoke V Middlesbrough ,Stoke,Middlesbrough,EPL
+Sunderland V Man City ,Sunderland,Man City,EPL
+Swansea V Burnley ,Swansea,Burnley,EPL
+Tottenham V Everton ,Tottenham,Everton,EPL
+Watford V Southampton ,Watford,Southampton,EPL
+West Brom V Crystal Palace ,West Brom,Crystal Palace,EPL
+West Ham V Chelsea ,West Ham,Chelsea,EPL
+Arsenal V Leicester ,Arsenal,Leicester,EPL
+Bournemouth V West Ham ,Bournemouth,West Ham,EPL
+Burnley V Liverpool ,Burnley,Liverpool,EPL
+Chelsea V Watford ,Chelsea,Watford,EPL
+Crystal Palace V Tottenham ,Crystal Palace,Tottenham,EPL
+Everton V West Brom ,Everton,West Brom,EPL
+Hull V Swansea ,Hull,Swansea,EPL
+Man City V Stoke ,Man City,Stoke,EPL
+Middlesbrough V Sunderland ,Middlesbrough,Sunderland,EPL
+Southampton V Man Utd ,Southampton,Man Utd,EPL
+Bournemouth V Swansea ,Bournemouth,Swansea,EPL
+Crystal Palace V Watford ,Crystal Palace,Watford,EPL
+Everton V Hull ,Everton,Hull,EPL
+Man City V Liverpool ,Man City,Liverpool,EPL
+Middlesbrough V Man Utd ,Middlesbrough,Man Utd,EPL
+Stoke V Chelsea ,Stoke,Chelsea,EPL
+Sunderland V Burnley ,Sunderland,Burnley,EPL
+Tottenham V Southampton ,Tottenham,Southampton,EPL
+West Brom V Arsenal ,West Brom,Arsenal,EPL
+West Ham V Leicester ,West Ham,Leicester,EPL
+Arsenal V Man City ,Arsenal,Man City,EPL
+Burnley V Tottenham ,Burnley,Tottenham,EPL
+Chelsea V Crystal Palace ,Chelsea,Crystal Palace,EPL
+Hull V West Ham ,Hull,West Ham,EPL
+Leicester V Stoke ,Leicester,Stoke,EPL
+Liverpool V Everton ,Liverpool,Everton,EPL
+Man Utd V West Brom ,Man Utd,West Brom,EPL
+Southampton V Bournemouth ,Southampton,Bournemouth,EPL
+Swansea V Middlesbrough ,Swansea,Middlesbrough,EPL
+Watford V Sunderland ,Watford,Sunderland,EPL
+Arsenal V West Ham ,Arsenal,West Ham,EPL
+Burnley V Stoke ,Burnley,Stoke,EPL
+Hull V Middlesbrough ,Hull,Middlesbrough,EPL
+Leicester V Sunderland ,Leicester,Sunderland,EPL
+Swansea V Tottenham ,Swansea,Tottenham,EPL
+Watford V West Brom ,Watford,West Brom,EPL
+Man Utd V Everton ,Man Utd,Everton,EPL
+Chelsea V Man City ,Chelsea,Man City,EPL
+Southampton V Crystal Palace ,Southampton,Crystal Palace,EPL
+Liverpool V Bournemouth ,Liverpool,Bournemouth,EPL
+Bournemouth V Chelsea ,Bournemouth,Chelsea,EPL
+Crystal Palace V Arsenal ,Crystal Palace,Arsenal,EPL
+Everton V Leicester ,Everton,Leicester,EPL
+Man City V Hull ,Man City,Hull,EPL
+Middlesbrough V Burnley ,Middlesbrough,Burnley,EPL
+Stoke V Liverpool ,Stoke,Liverpool,EPL
+Sunderland V Man Utd ,Sunderland,Man Utd,EPL
+Tottenham V Watford ,Tottenham,Watford,EPL
+West Brom V Southampton ,West Brom,Southampton,EPL
+West Ham V Swansea ,West Ham,Swansea,EPL
+Crystal Palace V Leicester ,Crystal Palace,Leicester,EPL
+Everton V Burnley ,Everton,Burnley,EPL
+Man Utd V Chelsea ,Man Utd,Chelsea,EPL
+Middlesbrough V Arsenal ,Middlesbrough,Arsenal,EPL
+Southampton V Man City ,Southampton,Man City,EPL
+Stoke V Hull ,Stoke,Hull,EPL
+Sunderland V West Ham ,Sunderland,West Ham,EPL
+Tottenham V Bournemouth ,Tottenham,Bournemouth,EPL
+Watford V Swansea ,Watford,Swansea,EPL
+West Brom V Liverpool ,West Brom,Liverpool,EPL
+Arsenal V Sunderland ,Arsenal,Sunderland,EPL
+Bournemouth V Middlesbrough ,Bournemouth,Middlesbrough,EPL
+Burnley V Man Utd ,Burnley,Man Utd,EPL
+Chelsea V Southampton ,Chelsea,Southampton,EPL
+Hull V Watford ,Hull,Watford,EPL
+Leicester V Tottenham ,Leicester,Tottenham,EPL
+Liverpool V Crystal Palace ,Liverpool,Crystal Palace,EPL
+Man City V West Brom ,Man City,West Brom,EPL
+Swansea V Stoke ,Swansea,Stoke,EPL
+West Ham V Everton ,West Ham,Everton,EPL
+Crystal Palace V Burnley ,Crystal Palace,Burnley,EPL
+Everton V Chelsea ,Everton,Chelsea,EPL
+Man Utd V Swansea ,Man Utd,Swansea,EPL
+Middlesbrough V Man City ,Middlesbrough,Man City,EPL
+Southampton V Hull ,Southampton,Hull,EPL
+Stoke V West Ham ,Stoke,West Ham,EPL
+Sunderland V Bournemouth ,Sunderland,Bournemouth,EPL
+Tottenham V Arsenal ,Tottenham,Arsenal,EPL
+Watford V Liverpool ,Watford,Liverpool,EPL
+West Brom V Leicester ,West Brom,Leicester,EPL
+Arsenal V Man Utd ,Arsenal,Man Utd,EPL
+Bournemouth V Stoke ,Bournemouth,Stoke,EPL
+Burnley V West Brom ,Burnley,West Brom,EPL
+Chelsea V Middlesbrough ,Chelsea,Middlesbrough,EPL
+Hull V Sunderland ,Hull,Sunderland,EPL
+Leicester V Watford ,Leicester,Watford,EPL
+Liverpool V Southampton ,Liverpool,Southampton,EPL
+Man City V Crystal Palace ,Man City,Crystal Palace,EPL
+Swansea V Everton ,Swansea,Everton,EPL
+West Ham V Tottenham ,West Ham,Tottenham,EPL
+Bournemouth V Burnley ,Bournemouth,Burnley,EPL
+Crystal Palace V Hull ,Crystal Palace,Hull,EPL
+Everton V Watford ,Everton,Watford,EPL
+Man City V Leicester ,Man City,Leicester,EPL
+Middlesbrough V Southampton ,Middlesbrough,Southampton,EPL
+Stoke V Arsenal ,Stoke,Arsenal,EPL
+Sunderland V Swansea ,Sunderland,Swansea,EPL
+Tottenham V Man Utd ,Tottenham,Man Utd,EPL
+West Brom V Chelsea ,West Brom,Chelsea,EPL
+West Ham V Liverpool ,West Ham,Liverpool,EPL
+Arsenal V Everton ,Arsenal,Everton,EPL
+Burnley V West Ham ,Burnley,West Ham,EPL
+Chelsea V Sunderland ,Chelsea,Sunderland,EPL
+Hull V Tottenham ,Hull,Tottenham,EPL
+Leicester V Bournemouth ,Leicester,Bournemouth,EPL
+Liverpool V Middlesbrough ,Liverpool,Middlesbrough,EPL
+Man Utd V Crystal Palace ,Man Utd,Crystal Palace,EPL
+Southampton V Stoke ,Southampton,Stoke,EPL
+Swansea V West Brom ,Swansea,West Brom,EPL
+Watford V Man City ,Watford,Man City,EPL
